@@ -1,0 +1,119 @@
+[
+    {
+        "title":"Sunset To Pacific",
+        "info":"28 Miles",
+        "description":"This route is the quintessential California motorcycle ride. Riders will pass iconic landmarks like the Sunset Strip and the Beverly Hills Hotel, while also getting to ride the beautiful coast along PCH. The ride is very easy and can be handled by novice bikers with no difficulty. You can ride Pacific Coast Highway all the way to the Santa Monica Pier to catch the sunset over the pier.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image3.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Mulholland Drive",
+        "info":"14 Miles",
+        "description":"Mulholland Drive is easily considered one of the best roads ride through on a bike in the greater Los Angeles area. The road is located right in the heart of the city and rolls through some winding mountains with great views of Hollywood and the Valley. You may want to bring a camera to snap some photos at stops along your ride. There are plenty of picturesque views.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image6.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"The Snake to The Rock Store",
+        "info":"22 Miles",
+        "description":"The Snake to The Rock Store is easily one of the most popular motorcycle routes in Los Angeles. If you’re new to the area or you’ve somehow managed to overlook this route, it’s definitely a must. The Rock Store is an iconic motorcycle meetup location that has been known to be frequented by Jay Leno. The route may be difficult for new riders, as the roads are very tight and windy.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image1.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Decker Canyon Road",
+        "info":"5 Miles",
+        "description":"Like Mulholland Drive, Decker Canyon Road can be another fun road to ride. With tight corners and winding turns, it may not be ideal for new riders. Experienced motorcyclists will enjoy the thrill and adventure this route can provide. It can also be a good road to take coming back from The Rock Store.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image4.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Decker Canyon Road",
+        "info":"5 Miles",
+        "description":"Like Mulholland Drive, Decker Canyon Road can be another fun road to ride. With tight corners and winding turns, it may not be ideal for new riders. Experienced motorcyclists will enjoy the thrill and adventure this route can provide. It can also be a good road to take coming back from The Rock Store.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image4.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"North Coast Run",
+        "info":"243 Miles",
+        "description":"If you live on the north side of the state, or you’d like to take a day ride up north, the North Coast Run is the ride for you. The route starts in Bodega Bay and is a combination of CA HWY 1 and US HWY 101 up to Eureka. The beautiful coastal scenery along with the giant redwood groves make the route more than worth it.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image7.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Hemet to Borrego Springs",
+        "info":"105 Miles",
+        "description":"Hemet to Borrego Springs is a good route to ride in the southern part of the state. The scenery gradually changes from mixed oaks and pines to desert vistas. It’s not as exciting as some of the other routes on the map, but it is definitely still a relaxing and fun drive to take.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image7.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"The Ventura County Loop",
+        "info":"222 Miles",
+        "description":"Loops are always great, because you can get back to where you started without having to retrace some of the same roads you initially traveled. The Ventura County Loop stands out as one of the better loop routes in California. The loop passes through Los Padres National Forest, which provides beautiful mountain and river gorge views. As you loop around to Santa Maria, you’ll also see some of the coast. There are a lot of twists and turns on this route. If you’re a new rider, it may not be the best route for you.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image11.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Mount Hamilton Loop",
+        "info":"100 Miles",
+        "description":"The Mountain Hamilton Loop is a great loop to ride in the greater Bay Area. The route runs up and down mount hamilton, which provides an array of scenery, including meadows, forests, and farmland. The view from the top of the mountain is breathtaking. There are a lot of potholes on this route, so riders should keep an eye out for them.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image8.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Joshua Tree National Park Loop",
+        "info":"176 Miles",
+        "description":"Joshua Tree National Park is a great park to ride through. It’s even better to ride through as part of a loop. Unlike many of the routes on the map, the turns and twists along the Joshua Tree loop are gentle. The park can get very hot and the ride is better to do in the winter or early/later on in the day.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image10.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Along The Border",
+        "info":"50 Miles",
+        "description":"This route is about as South as you can possibly go without leaving the country. You can take Route 94 starting in Spring Valley and go as far South as you want to go before hitting Interstate 8. There are some nice canyons that provide for good views while riding. Most of the route is also in great shape.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image12.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Sierra Way to CA-190",
+        "info":"89 Miles",
+        "description":"Sierra Way to CA-190 runs through the beautiful Sequoia National Forest. You’ll pass giant, old trees and plenty of look-outs with great views. There is certainly no shortage of photo opportunities or rest stops with a view. New riders should beware that this route contains extremely twisty roads with 7,000 foot elevation drop to the valley floor. It can be challenging even for riders who have been riding for a while.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image9.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    },
+    {
+        "title":"Angeles Crest Highway",
+        "info":"60 Miles",
+        "description":"Angeles Crest Highway is just minutes from Downtown Los Angeles and offers an escape for those looking to get away from the city. Fresh air, mountain views, blue skies, and a sea of trees await those who are ready for the ride. There are a lot of twists with a climb up to 7,000 feet. This route may not be the best for beginners.",
+        "Addresssrc":"California Motorcycle Routes",
+        "Imagesrc":"asset/images/image2.png",
+        "type": "route",
+        "lat":37.903867,"lng":-122.11744099999999
+    }
+    ]

@@ -1,0 +1,882 @@
+[
+    {
+       "formatted_address" : "515 W Lambert Rd, Brea, CA 92821, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.9251279,
+             "lng" : -117.902945
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.92639377989273,
+                "lng" : -117.9015917701073
+             },
+             "southwest" : {
+                "lat" : 33.92369412010729,
+                "lng" : -117.9042914298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "353fb977ca773334e27ea658920bb43b9a4c72e1",
+       "name" : "Southern California Motorcycles",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 2988,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105460370764700547770/photos\"\u003eTony mustang\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAEBHYItXKzTtsbQDEz8Smbivo0xjGPimfrSFJ_0IV4vd04wUPPPDta_dImy94ep7JAfJpdlXZBjRLR_DAg4Kv1Zk-E7WbRAXemxUD3ePE7tTgZ4maseXE4WFWpCaYEkH1EhDTm70mLeyFySTHcY-U37IvGhT5AyeZy02Wrc7fPb4s2DV8beLt3A",
+             "width" : 3984
+          }
+       ],
+       "place_id" : "ChIJNU7OlWrV3IARQsXlAdhscxw",
+       "plus_code" : {
+          "compound_code" : "W3GW+3R Brea, California, USA",
+          "global_code" : "8554W3GW+3R"
+       },
+       "rating" : 4.3,
+       "reference" : "ChIJNU7OlWrV3IARQsXlAdhscxw",
+       "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 155
+    },
+    {
+       "formatted_address" : "3383 Airway Dr, Santa Rosa, CA 95403, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 38.4749437,
+             "lng" : -122.7386079
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 38.47629387989272,
+                "lng" : -122.7370142201073
+             },
+             "southwest" : {
+                "lat" : 38.47359422010728,
+                "lng" : -122.7397138798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "ef8f62ace99ffc1e5caa071c0fa372a7776b48e4",
+       "name" : "The Motorcycle Shop",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 3024,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/106799818534754110733/photos\"\u003eMatt Dawson\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAmRCN0c95ja1ZrFvq5iWxtyrPpfbiQrJ1c1kydfHruc9GZz12DMi5l3BQtcvF2i97eVspXUWoLrHw7BdG8M_rREwfrDGMPCiXnXFuiXTgBYxS1cYXwE_NE_XgNnjEpvj0EhDxTJg2Zifgxm6WvyVkoYBzGhQlRcvcxYSRkBMm-OC1b7y3DHVjqw",
+             "width" : 4032
+          }
+       ],
+       "place_id" : "ChIJQadlvBtIhIARYC7DUYg_pcE",
+       "plus_code" : {
+          "compound_code" : "F7F6+XH Santa Rosa, California, USA",
+          "global_code" : "84CVF7F6+XH"
+       },
+       "rating" : 4.8,
+       "reference" : "ChIJQadlvBtIhIARYC7DUYg_pcE",
+       "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 24
+    },
+    {
+       "formatted_address" : "460 Meridian Ave, San Jose, CA 95126, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.3194183,
+             "lng" : -121.9136501
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.32053967989272,
+                "lng" : -121.9119418201073
+             },
+             "southwest" : {
+                "lat" : 37.31784002010727,
+                "lng" : -121.9146414798928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "c6ddc8dfee61e385a72b2130cdffaf97480f7893",
+       "name" : "Spirit Motorcycles San Jose / Triumph San Jose",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 2448,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/111848028676221326653/photos\"\u003eSpirit Motorcycles San Jose\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAKiJ7Hck54hOUldjqZ9YFBo34PaHuXNf5-13oS8cpeU6S5dBQL3D6gFCGCkwn7cLFjW_HiLnAlCsUCep4TZHW583CG7e3b5psSwMUqKVpJRdYc33174b7laLSWeo4DktWEhAYY-_zI9O4qISUc6DHfsQwGhSz4iQlQRWuQi_a8u1uPyCwxZhIOw",
+             "width" : 3264
+          }
+       ],
+       "place_id" : "ChIJDSZzIU7Lj4ARj8Tb_R7G4BM",
+       "plus_code" : {
+          "compound_code" : "839P+QG San Jose, California, USA",
+          "global_code" : "849W839P+QG"
+       },
+       "rating" : 4.7,
+       "reference" : "ChIJDSZzIU7Lj4ARj8Tb_R7G4BM",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 212
+    },
+    {
+       "formatted_address" : "555 S H St, San Bernardino, CA 92410, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.08947,
+             "lng" : -117.3001386
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.09067607989272,
+                "lng" : -117.2987883701073
+             },
+             "southwest" : {
+                "lat" : 34.08797642010727,
+                "lng" : -117.3014880298928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+       "id" : "3b5dcdf9a170906a0f5184ef0f978807590b311f",
+       "name" : "Chaparral Motorsports Honda Service",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 3024,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/101402562592265130612/photos\"\u003eadrian jan\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAXOpUQYC0VGvvroUjrWDhoSy7u200kFXcL1I4UTE1MvGpqjDLdrExsHjIPHx5gYWp9gcj_GQem22XjDHVI7LoMXXBtlIPey_stZSs8Bc9yq-0O9w7vxvQm7nLLOPNyr0cEhDpufRUi_brFg6yqQvGmrVgGhSC-y5aX03pWoiEmP4zaURFvPtpJw",
+             "width" : 4032
+          }
+       ],
+       "place_id" : "ChIJ87Ulqc2s3IAR64rlAa7zo90",
+       "plus_code" : {
+          "compound_code" : "3MQX+QW San Bernardino, California, USA",
+          "global_code" : "85643MQX+QW"
+       },
+       "rating" : 4.4,
+       "reference" : "ChIJ87Ulqc2s3IAR64rlAa7zo90",
+       "types" : [ "car_repair", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 7
+    },
+    {
+       "formatted_address" : "901 1/2 E 4th St, Long Beach, CA 90802, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.7719165,
+             "lng" : -118.1807668
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.77326732989272,
+                "lng" : -118.1793367201073
+             },
+             "southwest" : {
+                "lat" : 33.77056767010728,
+                "lng" : -118.1820363798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "7d002125d168c4172e549075f42c48448ddeaa9f",
+       "name" : "M & C Motorcycle Shop",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 2988,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/110031634027840120010/photos\"\u003eA Google User\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAs6Tp3j96adh-hy1r465qI2drmESVjcP9xRRewcoLrhc8k9Nt-goIjNHz4JSVp7EYJypWe2ThObBlRtoj6mKcJfqRONL8qT6THpw4NV21BMJJWPY_FifSqPBy8kTtA89sEhBrJolj-wQZnU0spduUwjXdGhTfbEkdEV1RBLzQbHWRJHSa1hXs1g",
+             "width" : 5312
+          }
+       ],
+       "place_id" : "ChIJiW4AlRUx3YAR0UhSZZl4l7c",
+       "plus_code" : {
+          "compound_code" : "QRC9+QM Long Beach, California, USA",
+          "global_code" : "8553QRC9+QM"
+       },
+       "rating" : 3.7,
+       "reference" : "ChIJiW4AlRUx3YAR0UhSZZl4l7c",
+       "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 48
+    },
+    {
+       "formatted_address" : "4455 N Blackstone Ave, Fresno, CA 93726, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 36.798725,
+             "lng" : -119.790897
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 36.80007477989272,
+                "lng" : -119.7893925201073
+             },
+             "southwest" : {
+                "lat" : 36.79737512010728,
+                "lng" : -119.7920921798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "652425f5077bea8ad2ab16f832211358b88e9118",
+       "name" : "Cycle Gear",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 1836,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/115456216462352121498/photos\"\u003eKristopher Villanueva\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA-CtAgxpa2VotnAPXzwBjIwlJsgYQ6GS3keyw9AlJWr1mlIo2Nh7oP2FDxHKAWe9SwkP9fhy-_10GcLte0Kdhiqo5rLDto1xD3Oscp1qmYYjuRQV23eynWQ13RtACgo_HEhBLn2iPO3r3gThSbQ53SgM2GhTHC8AnFFSAUROc21AOdn5VJ-cHuQ",
+             "width" : 3264
+          }
+       ],
+       "place_id" : "ChIJt-82wYBnlIARfAKKA7ZkUTM",
+       "plus_code" : {
+          "compound_code" : "Q6X5+FJ Fresno, California, USA",
+          "global_code" : "8582Q6X5+FJ"
+       },
+       "rating" : 4.5,
+       "reference" : "ChIJt-82wYBnlIARfAKKA7ZkUTM",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 150
+    },
+    {
+       "formatted_address" : "1725 Hacienda Dr Ste C, Vista, CA 92081, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.1890622,
+             "lng" : -117.2749913
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.19051452989272,
+                "lng" : -117.2734071201073
+             },
+             "southwest" : {
+                "lat" : 33.18781487010728,
+                "lng" : -117.2761067798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "28d9559eb9666ee26639f2097ae9bf23b311a3b8",
+       "name" : "Ridenow SoCal",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 4160,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/100297527187889593768/photos\"\u003eErika Wisdom\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAEEBpalkye5fCPf7RGk9cfqlsKClVcPrJ0eSVtmbo45FlroA2TjXt3jndusl411MAAPQF96ecAd6C1hLaQnGbqKhY_aXoO9n6Rt5b8RyCdZ_A9Fb--FzMEZpTuvV88T03EhDlXIHWlK-MdHfdsAfC0X7gGhR83dhXUjlzBlNOFrZWm0aQlqHYrA",
+             "width" : 3120
+          }
+       ],
+       "place_id" : "ChIJs5tUF1Zx3IARgVylolPk2rI",
+       "plus_code" : {
+          "compound_code" : "5PQG+J2 Vista, California, USA",
+          "global_code" : "85545PQG+J2"
+       },
+       "rating" : 3.8,
+       "reference" : "ChIJs5tUF1Zx3IARgVylolPk2rI",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 244
+    },
+    {
+       "formatted_address" : "1510 N State College Blvd, Anaheim, CA 92806, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.8568338,
+             "lng" : -117.8887693
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.85818097989272,
+                "lng" : -117.8875625701072
+             },
+             "southwest" : {
+                "lat" : 33.85548132010727,
+                "lng" : -117.8902622298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "8632a8852f79b559c8c589c317b4ae54b62be663",
+       "name" : "Lifestyle Cycles",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 4032,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105849275477630060530/photos\"\u003eRafael Lopez\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAWgrdKm3AhXON4628_SW-R90yWfrjqgjPN_ovJjxV5WeVgSrJrPZs9CpTrZiYTBwrOL5CUJILa8DfPz4W3nLPneLjubYmYWizck_GxxeOvZJ1weLiCl7lDgbHOQy3T1vXEhDitaYAvzjGQynqRchf7_hOGhQ2KIR3aQd-b_uiczMT4I2HT3ESJw",
+             "width" : 3024
+          }
+       ],
+       "place_id" : "ChIJ3-_3TmXW3IARt4SQatpQ-g8",
+       "plus_code" : {
+          "compound_code" : "V446+PF Anaheim, California, USA",
+          "global_code" : "8554V446+PF"
+       },
+       "rating" : 4.6,
+       "reference" : "ChIJ3-_3TmXW3IARt4SQatpQ-g8",
+       "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 238
+    },
+    {
+       "formatted_address" : "5749 Pacheco Blvd, Pacheco, CA 94553, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.985369,
+             "lng" : -122.067413
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.98671157989272,
+                "lng" : -122.0661383201073
+             },
+             "southwest" : {
+                "lat" : 37.98401192010727,
+                "lng" : -122.0688379798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "954e7a61014677e399de0893ebf8178b2e85bd82",
+       "name" : "Cycle Gear",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 3024,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/113403168829732295381/photos\"\u003eMichael Southwick\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAE-wIjGLdwHmYy2ohwqQ7-Fd7WRToFKi8e5l22hu0735EX94RVKWVxbjcXygFfTCae-wRpVWZWMkG5q8dUrSm4x_VAR1CulHnAQix4Eo2CEA_IhI5NbZyDcDhVJWrMkLGEhCsQnZN6YwUa-m1_Q-wNVuDGhS1H0sDYaVhQdqEeAgMQ2aiNhpUNg",
+             "width" : 4032
+          }
+       ],
+       "place_id" : "ChIJT3hBDY5mhYAREDzLXwknnb0",
+       "plus_code" : {
+          "compound_code" : "XWPM+42 Pacheco, California, USA",
+          "global_code" : "849VXWPM+42"
+       },
+       "rating" : 4.6,
+       "reference" : "ChIJT3hBDY5mhYAREDzLXwknnb0",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 121
+    },
+    {
+       "formatted_address" : "1521 N Carpenter Rd, Modesto, CA 95351, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.657041,
+             "lng" : -121.031582
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.65838957989273,
+                "lng" : -121.0302974701073
+             },
+             "southwest" : {
+                "lat" : 37.65568992010729,
+                "lng" : -121.0329971298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "c94e03a85136b8da3dcee4fdad42682a944d07fa",
+       "name" : "Cycle Gear",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 2160,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/116457446997078632870/photos\"\u003ejason bell\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAJyHBVKIlYDJgc6ffzMsxMDxgPdk5OGMHUu7P7SlGGbcMJl-dpGPF9czA2v2tu1D7eYB7UvwyEyRVTIgUK7hsLdWOqJZFjz2uHV6efVHEZq6B9uL8cSph2QhIQ9Ns4R4NEhDmizkmzqICPaAfS5ypjcBYGhROMOM9QJtbQG0FJHGdRcY8ijZHaA",
+             "width" : 2880
+          }
+       ],
+       "place_id" : "ChIJ0f3s7nhRkIARkFWod75WC5Q",
+       "plus_code" : {
+          "compound_code" : "MX49+R9 Modesto, California, USA",
+          "global_code" : "849WMX49+R9"
+       },
+       "rating" : 4.5,
+       "reference" : "ChIJ0f3s7nhRkIARkFWod75WC5Q",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 186
+    },
+    {
+       "formatted_address" : "2335 W Yosemite Ave, Manteca, CA 95337, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.7974809,
+             "lng" : -121.2580067
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.79874502989272,
+                "lng" : -121.2566569201073
+             },
+             "southwest" : {
+                "lat" : 37.79604537010728,
+                "lng" : -121.2593565798928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+       "id" : "4f4b69c7dab2e5a91a8d313250b50d312ea3a7e9",
+       "name" : "GearHeads Motorcycle Shop",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 1836,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/102105586825310123689/photos\"\u003eSam Sweeten\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAoglZ4ZRUgrDjA0T859xySeYAa2kUyZzoBgmDjEFG8iLufay2zyeYWAOQSeI_j7-OQuxRpkK_k-Uw-OfaLLFM9kdevonuhsOhjHNAcNihDsyivwPAQnLm8cuzGCxtvr4rEhDaAmJ74rSbtn2UJGHpqFS-GhSXcn9-zSMvgeJ1xmzg502oURwuPw",
+             "width" : 3264
+          }
+       ],
+       "place_id" : "ChIJWagHmypAkIAR-dX71jmP_Gc",
+       "plus_code" : {
+          "compound_code" : "QPWR+XQ Manteca, California, USA",
+          "global_code" : "849WQPWR+XQ"
+       },
+       "rating" : 4.6,
+       "reference" : "ChIJWagHmypAkIAR-dX71jmP_Gc",
+       "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 17
+    },
+    {
+       "formatted_address" : "1151 N Azusa Ave, Covina, CA 91722, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.10066,
+             "lng" : -117.9086536
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.10201102989272,
+                "lng" : -117.9072530201073
+             },
+             "southwest" : {
+                "lat" : 34.09931137010727,
+                "lng" : -117.9099526798928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "46bffd02c336c1f3fae36bdba3c635d9f68708da",
+       "name" : "Bert's Mega Mall",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 3096,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/117672344300264243296/photos\"\u003esteve espinoza\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAApV5FSiWI00ICZAUjMf4f6Way3JO4eyMIvwrjMYFIfAflzXenpSB_KbGBYhy3YNA-uJVZLM7LJzIScZlqtxWigATi8gnnFGA5t_zLzpE6ii1tMgxd5dkMIKk3V7Dhy3J7EhBzIayLDFRfiVfxOQvg0_o-GhQDPvtTDdaozxjYlCWFQ_ZYoHjlvA",
+             "width" : 4128
+          }
+       ],
+       "place_id" : "ChIJ47LxDA4ow4ARi8k1zZRjgRY",
+       "plus_code" : {
+          "compound_code" : "432R+7G Covina, California, USA",
+          "global_code" : "8564432R+7G"
+       },
+       "rating" : 4.4,
+       "reference" : "ChIJ47LxDA4ow4ARi8k1zZRjgRY",
+       "types" : [ "car_dealer", "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 1109
+    },
+    {
+       "formatted_address" : "6541 Ventura Blvd, Ventura, CA 93003, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.2471538,
+             "lng" : -119.198985
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.24840662989273,
+                "lng" : -119.1977087701073
+             },
+             "southwest" : {
+                "lat" : 34.24570697010728,
+                "lng" : -119.2004084298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "78b6729c4132dbd4515b847b81301e96c1d9fca0",
+       "name" : "The Shop",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 530,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/109694176597252482556/photos\"\u003eA Google User\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAQVcC-IT9kP5dq14s01MwU17-zIDnoz8pVPKYrwsn8ELCVkTUfRt79KDkcrWr5c7bc2Yfx537gm9N5Mvdwx5Y8X_KouMt5evMHavIZmBu-A_h57WhXPRjxHx7UrEa1NxmEhAgPhyK_u3IgPJZ7stBzOd8GhQZR4h1L81oq8JY4tmxZRPqGsmRsg",
+             "width" : 800
+          }
+       ],
+       "place_id" : "ChIJB7IYwhBN6IARq2R43EUqBv4",
+       "plus_code" : {
+          "compound_code" : "6RW2+VC Ventura, California, USA",
+          "global_code" : "85626RW2+VC"
+       },
+       "rating" : 4.4,
+       "reference" : "ChIJB7IYwhBN6IARq2R43EUqBv4",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 13
+    },
+    {
+       "formatted_address" : "818 Cristich Ln, Campbell, CA 95008, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.2756912,
+             "lng" : -121.944911
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.27703907989272,
+                "lng" : -121.9436976701073
+             },
+             "southwest" : {
+                "lat" : 37.27433942010727,
+                "lng" : -121.9463973298928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+       "id" : "19b1a1ead00ad3ceb2045f0329da6c3ef2935cc0",
+       "name" : "AE Kustomz - Motorcycle Repair",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 4032,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/102849473027082076438/photos\"\u003eA Google User\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAUZ_kKhnH1OncKFooS2QX29KXa_jN52whoGXk_E6zsIfZM-IBAgqCC1z5zcPAveQSPnD3gHYUG1NKS9YUy6nsZlALoAv_S-X0qo1e5rXxPbyAepbIRiPomz8m7W0DxEbJEhDAR688Gw944XvBRlBIu8NxGhRnI3lfcHqq0Dk92ZpJBDhh-CRe0A",
+             "width" : 3024
+          }
+       ],
+       "place_id" : "ChIJIcHY3OI0joAROXIknXvzVrE",
+       "plus_code" : {
+          "compound_code" : "73G4+72 Campbell, California, USA",
+          "global_code" : "849W73G4+72"
+       },
+       "rating" : 4.7,
+       "reference" : "ChIJIcHY3OI0joAROXIknXvzVrE",
+       "types" : [ "car_repair", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 19
+    },
+    {
+       "formatted_address" : "735 Gilman St, Berkeley, CA 94710, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.8792882,
+             "lng" : -122.3033549
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.88048367989271,
+                "lng" : -122.3019577201073
+             },
+             "southwest" : {
+                "lat" : 37.87778402010727,
+                "lng" : -122.3046573798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+       "id" : "f3084535f3e307d7099fc216a9e7b3ca16c9f622",
+       "name" : "Berkeley Honda Motorcycle Service",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 3264,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/114228951768410324668/photos\"\u003eAmy Abernathy\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAted28dzO431NHm8gwtIQJvUnukq_FAIcZrtJSESrbTgt5c3zfbcWkw4LYzf1uJNQ32xgQbWqywiWyL8udCUDAiymdXL7aql5JhwCu1ax10ycjq58uk-B5GJ97PJgVoOqEhD0MLXADPEmuZKvPsTgAP0uGhSORrLXk-rW9bWVWYJWwbptWCZz3Q",
+             "width" : 1836
+          }
+       ],
+       "place_id" : "ChIJh6AaYdF-hYARxVWmoDHSZ40",
+       "plus_code" : {
+          "compound_code" : "VMHW+PM Berkeley, California, USA",
+          "global_code" : "849VVMHW+PM"
+       },
+       "rating" : 4.4,
+       "reference" : "ChIJh6AaYdF-hYARxVWmoDHSZ40",
+       "types" : [ "car_repair", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 7
+    },
+    {
+       "formatted_address" : "4705 Industrial Way, Benicia, CA 94510, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 38.074666,
+             "lng" : -122.11927
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 38.07585842989271,
+                "lng" : -122.1176091701073
+             },
+             "southwest" : {
+                "lat" : 38.07315877010727,
+                "lng" : -122.1203088298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "c086fd42f89215920d0dbf43761eb869d3849a08",
+       "name" : "Cycle Gear Inc., Corporate Office",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 2560,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/109409404638278892897/photos\"\u003eA Google User\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAyqYBglK2y5_q1DiM55L37Ph_pdZ3S-LqRwWIfWsU1MbxhMIzeBaxXNSAMvDYdFZWVFKaTfR0CkV89R1NZT5Pf7P-pfyk2p1VYoQI6Be5TO51PLQ-bWSubbU0P2EhCb6QEhAG3ArL_W1vMo13jGUrQY4xGhSM4mz712VGPdppB3cSoMEIW9FfkQ",
+             "width" : 1536
+          }
+       ],
+       "place_id" : "ChIJW339RI1uhYARYHILTFmfPZQ",
+       "plus_code" : {
+          "compound_code" : "3VFJ+V7 Benicia, California, USA",
+          "global_code" : "84CV3VFJ+V7"
+       },
+       "rating" : 3.9,
+       "reference" : "ChIJW339RI1uhYARYHILTFmfPZQ",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 12
+    },
+    {
+       "formatted_address" : "2040 CA-1, Lomita, CA 90717, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.789256,
+             "lng" : -118.316057
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.79060522989273,
+                "lng" : -118.3146185201073
+             },
+             "southwest" : {
+                "lat" : 33.78790557010728,
+                "lng" : -118.3173181798928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "3d7d4251c3c80f50c59c390873d42d574279a8a3",
+       "name" : "Cycle Gear",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 3264,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/115367655052105412641/photos\"\u003eNancy White Horse\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAyIri6MjtMHFIdv4klnJkXBzN9sWqN9uqmDEJHz15TEiEefY9lDoRvCtNVFCvHuXYKHkerXaAYPwD67qFppf9L0GtYpXD1Nlb0Pp-w3nEUAv-Ozh9vcTLm5AFollWtiFmEhDv503eoVPy0Bdfos9tQyHkGhQburRSphoaRPf4iREeXeFQu9ntkw",
+             "width" : 1836
+          }
+       ],
+       "place_id" : "ChIJsYb9vG5K3YARltKL06-2__M",
+       "plus_code" : {
+          "compound_code" : "QMQM+PH Lomita, California, USA",
+          "global_code" : "8553QMQM+PH"
+       },
+       "rating" : 4.5,
+       "reference" : "ChIJsYb9vG5K3YARltKL06-2__M",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 113
+    },
+    {
+       "formatted_address" : "550 W Rancho Vista Blvd, Palmdale, CA 93551, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.600749,
+             "lng" : -118.140027
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.60213282989272,
+                "lng" : -118.1386202201073
+             },
+             "southwest" : {
+                "lat" : 34.59943317010728,
+                "lng" : -118.1413198798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+       "id" : "b2ec3631eaa777d012e908598bd78bf39c486d79",
+       "name" : "Cycle Gear",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 2600,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/113047309344534091430/photos\"\u003eLAV Kanyer\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAALgqSIR9hithfh5TxVUjtgl9n18PgJtROh0ctH5W-dEcT9PmR9RkmO8JKJJ83L5ubBCs_Z2uXvmgXcqhf0LyMNgANrfyd04dwldbvDLeBj_hznPBYfd2eEEdnWgBD8JUvEhC8uN38IzAVHYcWNpWQsC11GhT3kV4HUx5FGtfLkQRduR6egPCXBA",
+             "width" : 2080
+          }
+       ],
+       "place_id" : "ChIJrwK_8r5ZwoARUMs3_iYj3VM",
+       "plus_code" : {
+          "compound_code" : "JV25+7X Palmdale, California, USA",
+          "global_code" : "8563JV25+7X"
+       },
+       "rating" : 4.5,
+       "reference" : "ChIJrwK_8r5ZwoARUMs3_iYj3VM",
+       "types" : [ "store", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 79
+    },
+    {
+       "formatted_address" : "1233 E Orangethorpe Ave, Fullerton, CA 92831, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.8598965,
+             "lng" : -117.905326
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.86120612989271,
+                "lng" : -117.9039746701073
+             },
+             "southwest" : {
+                "lat" : 33.85850647010727,
+                "lng" : -117.9066743298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+       "id" : "c1d58c4f59263aa903f7c436d2f3690ca155fa5c",
+       "name" : "Lucky's Motorcycle Shop",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 781,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105018436069748475210/photos\"\u003eJim Specialties\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA179kt2x4st39nkjH8yWVmteEsclJLeob17D8BXQOzdlxAWFHh3lbbK1SWRuFATqjLXu5pNpHL2uC_KFPm4NxCz-2tc4oT_0bROHy1yClgLkdfBu3ajgOAsV1q-Fbki7iEhDu02wYnvOYslC2bxtoITOIGhT28udyZ_8Q4C60pNCuPdNCyU7qgA",
+             "width" : 1388
+          }
+       ],
+       "place_id" : "ChIJ-yrDkQvW3IARHupNU8gFXoE",
+       "plus_code" : {
+          "compound_code" : "V35V+XV Fullerton, California, USA",
+          "global_code" : "8554V35V+XV"
+       },
+       "rating" : 4.7,
+       "reference" : "ChIJ-yrDkQvW3IARHupNU8gFXoE",
+       "types" : [ "car_repair", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 20
+    },
+    {
+       "formatted_address" : "4234 Monterey Rd, San Jose, CA 95111, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.276167,
+             "lng" : -121.832044
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.27728247989271,
+                "lng" : -121.8310575701073
+             },
+             "southwest" : {
+                "lat" : 37.27458282010727,
+                "lng" : -121.8337572298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+       "id" : "488ac0becff5094dbc571b4ee159cf00df368913",
+       "name" : "California Cycles",
+       "opening_hours" : {
+          "open_now" : true
+       },
+       "photos" : [
+          {
+             "height" : 605,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/117465151619034982733/photos\"\u003eCalifornia Cycles\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA9w-U2-7hBkMnC9ccV-8PtjKi9nvRpY_fljGZB-YNL08Im8LBlVgJeJf-CMbaAFkEfQxJG0YuI69NTkpJ1G2gvVUS8M2VwebLEeicvtuan4Lf0mSs4LqdpmBIOPHTeNH1EhBENM6l0eNsPa5qPe4lt_cHGhSagKu4R1Sm03B6yVatAV0Cx_2usQ",
+             "width" : 857
+          }
+       ],
+       "place_id" : "ChIJsy3V7hUyjoARjAiJUh5HzmQ",
+       "plus_code" : {
+          "compound_code" : "75G9+F5 San Jose, California, USA",
+          "global_code" : "849W75G9+F5"
+       },
+       "rating" : 4.3,
+       "reference" : "ChIJsy3V7hUyjoARjAiJUh5HzmQ",
+       "types" : [ "car_repair", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 6
+    }
+ ]

@@ -1,0 +1,908 @@
+[
+    {
+       "formatted_address" : "19152 E Santiago Canyon Rd, Trabuco Canyon, CA 92679, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.68387999999999,
+             "lng" : -117.6203624
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.68522377989272,
+                "lng" : -117.6191437201073
+             },
+             "southwest" : {
+                "lat" : 33.68252412010727,
+                "lng" : -117.6218433798928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "ae8c643438341bed0ae17b3f1bf7d9a8fcb608b2",
+       "name" : "Cook's Corner",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 2988,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/107939255505053675721/photos\"\u003eSteven Cook\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAZn69-ZMEwatMGdSjdhcrqB3SovdchUqZNyAthbkaqfQjGg_SClRZPocnLnhwIhwbNIh8Kd-hbeaxDYCqPZWvwwIEDRAbCSlvu1m5kCF0SqBzDdx3a-X1VG9MA84KYJO-EhAzrANIsnhmrXYN03_5bE5OGhQf8nd40M09MgGYC_Psvn-xSMMu-w",
+             "width" : 3984
+          }
+       ],
+       "place_id" : "ChIJK5cZ1wrq3IAR7T0bQc0xbY4",
+       "plus_code" : {
+          "compound_code" : "M9MH+HV Trabuco Canyon, California, USA",
+          "global_code" : "8554M9MH+HV"
+       },
+       "price_level" : 1,
+       "rating" : 4.6,
+       "reference" : "ChIJK5cZ1wrq3IAR7T0bQc0xbY4",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 848
+    },
+    {
+       "formatted_address" : "526 San Benito St, Hollister, CA 95023, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 36.8510032,
+             "lng" : -121.4023342
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 36.85235082989272,
+                "lng" : -121.4008660201073
+             },
+             "southwest" : {
+                "lat" : 36.84965117010728,
+                "lng" : -121.4035656798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+       "id" : "b504f8a1a1bb7306309edd74cfe60c251a952a35",
+       "name" : "Johnny's Bar & Grill",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 2952,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/112445405295371803918/photos\"\u003eJohn Osborne\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAKEc8Z4P6KC7Jwr7oTHsirN9Hcp3nPE9ghkXs_bzpJnEjExlhrG7X3U3gAzxOi53mCazjpWLgBycvyg2R5VbFyX9H7uX6dNo5iygN5IS4LzPu1gT9zVqcGFpp6fkw2WdJEhA9wboKiRj8-PIp0Nj-48E1GhTRq6jASX352yDwM4lPZ60xKSrvrg",
+             "width" : 5248
+          }
+       ],
+       "place_id" : "ChIJbf0Ye9P3kYAR8xz3gstUJRw",
+       "plus_code" : {
+          "compound_code" : "VH2X+C3 Hollister, California, USA",
+          "global_code" : "848WVH2X+C3"
+       },
+       "price_level" : 2,
+       "rating" : 4.4,
+       "reference" : "ChIJbf0Ye9P3kYAR8xz3gstUJRw",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 166
+    },
+    {
+       "formatted_address" : "9314 Beverly Rd, Pico Rivera, CA 90660, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.0052873,
+             "lng" : -118.0769033
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.00673227989272,
+                "lng" : -118.0755472201073
+             },
+             "southwest" : {
+                "lat" : 34.00403262010728,
+                "lng" : -118.0782468798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "2ea772707e218db13224415e6adc6e67800935ed",
+       "name" : "Wagon Wheel Bar",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 4128,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/110575869319446263070/photos\"\u003eA Google User\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRZAAAAWvPvk1udjLwSg1W9jb4lPA4j1w0Z-p7uj0pj70fJQC--XgZeOA63MC7eNt7sXGj2z2nQl6bNVmJwO3Ch3GzsxVye5c9GO08r19QWFPtgRXoxYB_vs_hev2zhHNPtjkIyEhAWAnPFQgPe1J-A7rrTxsQ0GhQEXiqjKPotgCH2C-vqH6a2f7YbTA",
+             "width" : 3096
+          }
+       ],
+       "place_id" : "ChIJCwWkJpjRwoARY36g-nLqOmo",
+       "plus_code" : {
+          "compound_code" : "2W4F+46 Pico Rivera, California, USA",
+          "global_code" : "85632W4F+46"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJCwWkJpjRwoARY36g-nLqOmo",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 161
+    },
+    {
+       "formatted_address" : "37349 Niles Blvd, Fremont, CA 94536, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.5772056,
+             "lng" : -121.9806353
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.57860157989273,
+                "lng" : -121.9792687201072
+             },
+             "southwest" : {
+                "lat" : 37.57590192010728,
+                "lng" : -121.9819683798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "a5dded8d0bf71c181bce365284a94746a092ea42",
+       "name" : "Florence Bar",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1836,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/117567871253519019368/photos\"\u003eIan Lamson\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAOGePqzXzUvpKKm48ZXlTQjkUPUyjMLt-43xGcwjXUoYJpH3PvtxbMN_YBTtnxh8hVpAiH3IvOqsq5-JUt9Q9d7mXSj7CoTrD_GBEmZdayghl4VIKSFM2v9leIxQtE83FEhC-etzwg4F_sAsOpfpGsqorGhRvBZ8jJJFMDNRD_yrycFGEL02HPg",
+             "width" : 3264
+          }
+       ],
+       "place_id" : "ChIJabiN7W3Aj4ARo56mm9pk8bo",
+       "plus_code" : {
+          "compound_code" : "H2G9+VP Fremont, California, USA",
+          "global_code" : "849WH2G9+VP"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJabiN7W3Aj4ARo56mm9pk8bo",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 150
+    },
+    {
+       "formatted_address" : "535 S Palm Canyon Dr, Palm Springs, CA 92264, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.8152937,
+             "lng" : -116.5468647
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.81654012989272,
+                "lng" : -116.5455114201073
+             },
+             "southwest" : {
+                "lat" : 33.81384047010727,
+                "lng" : -116.5482110798928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+       "id" : "825063faf4d87fd432b0806592a58b277fd60b07",
+       "name" : "Palm Canyon Roadhouse",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1836,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/101707285286474033853/photos\"\u003eBill Lapham\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA7WByheikcgLvNDCoVmGzmgXDnfLUVgv3HoM9DVlUT6Lo4vhnt51POHF_vTRS49zYrYtgzXDOAG_56KzBu-CkDan4lkfncrq_GM6KM0bunz4NVnm7Nnj6-eu9W9QhUjf-EhCL8cvWVGOphoEhv8f8m5iCGhRBGECSxU-dgvuSqJXekODh3Z074g",
+             "width" : 3264
+          }
+       ],
+       "place_id" : "ChIJVX8hJggb24ARk7f9wBc07mc",
+       "plus_code" : {
+          "compound_code" : "RF83+47 Palm Springs, California, USA",
+          "global_code" : "8555RF83+47"
+       },
+       "price_level" : 2,
+       "rating" : 4.2,
+       "reference" : "ChIJVX8hJggb24ARk7f9wBc07mc",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 229
+    },
+    {
+       "formatted_address" : "2531 S Coast Hwy 101, Cardiff, CA 92007, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.0134576,
+             "lng" : -117.2795215
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.01477637989272,
+                "lng" : -117.2782881701073
+             },
+             "southwest" : {
+                "lat" : 33.01207672010728,
+                "lng" : -117.2809878298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "d9bb7357957885d9215db61bdc78446105e2f1fa",
+       "name" : "The Kraken",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1944,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/112227675834699405054/photos\"\u003eSondra Golden\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA84DRQqHGEXGKbL42XS0_z4QWltI2UV82n6BhSq2AUpaOXEuJ6rMnNu5vfrv5QGt-uXRHbklbgsASr6B3MVESA2lOiTrS7_4cJtwIkIDChq1hzIx7Wv9dZSsHM1P8YsEGEhDuSihovKVLmmBDgBn9XnY8GhQNfZ30c9CBezXPntOaQndgr2VgDA",
+             "width" : 2592
+          }
+       ],
+       "place_id" : "ChIJ9ea7h6UO3IARbDBKw7fmfAE",
+       "plus_code" : {
+          "compound_code" : "2P7C+95 Encinitas, California, USA",
+          "global_code" : "85542P7C+95"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJ9ea7h6UO3IARbDBKw7fmfAE",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 291
+    },
+    {
+       "formatted_address" : "27413 CA-76, Santa Ysabel, CA 92070, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.2114755,
+             "lng" : -116.7376006
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.21287567989272,
+                "lng" : -116.7362549201073
+             },
+             "southwest" : {
+                "lat" : 33.21017602010728,
+                "lng" : -116.7389545798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+       "id" : "ab7746e9e7c2d59179f590a488a3587bb54f338c",
+       "name" : "Josie's Hideout Saloon",
+       "photos" : [
+          {
+             "height" : 2936,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/102589723339155358637/photos\"\u003emike b\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAVxAYrUVDIUrV9t7WA7YGkmXCJAaQcYYpRsYlwIyd5TraCowm-ZMNCqz3mSsCl7Ecp2-4H8ZHuK37bH9ldrxYcFVlAkPhxvf-5JhJ0GMB1XYedPL91alIYAwENkM5N_cXEhB4eddha-ycjEAv2r-sInOaGhRrGf2-BE9s5emGdsatCtiKSanPog",
+             "width" : 3916
+          }
+       ],
+       "place_id" : "ChIJDXJDnJLA24ARXMj8hkeosQQ",
+       "plus_code" : {
+          "compound_code" : "6766+HX Santa Ysabel, California, USA",
+          "global_code" : "85556766+HX"
+       },
+       "rating" : 3.8,
+       "reference" : "ChIJDXJDnJLA24ARXMj8hkeosQQ",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 18
+    },
+    {
+       "formatted_address" : "16701 Pacific Coast Hwy, Sunset Beach, CA 90742, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.7195276,
+             "lng" : -118.0725251
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.72094072989272,
+                "lng" : -118.0711165701073
+             },
+             "southwest" : {
+                "lat" : 33.71824107010728,
+                "lng" : -118.0738162298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "db4e7df41b0915446329e1c27d1068e471decde3",
+       "name" : "MOTHER'S TAVERN",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 2160,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/100740887623841082855/photos\"\u003eRod C\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAARzhgpup0wyRRlnxuGX3YQqeuDy702jJzG6rmtyfEj3pORKoOdFq4A-KhabjiDLJ2PB3D-k9bBUiHxMKEvW2NoGos8OuGXQC7iEoEgXMm3TRzuv2qNhH-szLCFqwqN5eyEhDrq68pqmAhX3_W-Dt37mUbGhS__CrOHuv_AW_NIjDBDDUaa8iSPA",
+             "width" : 3840
+          }
+       ],
+       "place_id" : "ChIJO-Bztwwl3YARDnxIumJse3U",
+       "plus_code" : {
+          "compound_code" : "PW9G+RX Huntington Beach, California, USA",
+          "global_code" : "8553PW9G+RX"
+       },
+       "price_level" : 1,
+       "rating" : 4.6,
+       "reference" : "ChIJO-Bztwwl3YARDnxIumJse3U",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 143
+    },
+    {
+       "formatted_address" : "32685 Ortega Hwy, Lake Elsinore, CA 92530, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 33.646756,
+             "lng" : -117.417847
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 33.64799972989272,
+                "lng" : -117.4163653701073
+             },
+             "southwest" : {
+                "lat" : 33.64530007010728,
+                "lng" : -117.4190650298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+       "id" : "ec96fa74ed1c8377e2c6b1444e094533a9b6919e",
+       "name" : "Hell's Kitchen Motorsports Bar & Grill",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1920,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/112404231751162288826/photos\"\u003eMike York\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA8brmwFMY7VLWITUMdXa-kgX1wAwqwEJNGGBEcVBJg846WRYYvQGOF0L_ruHSFxKuelbSrG-Rma0BpbLDXsO4P9Xy_9XUcjmJXokBiT4lVseEHMc1mzA6YYYYlQlbVnOVEhD-atjxuN8G5-pczc-gecrjGhTg9tPJek0u5_Iol4hPTQ8dT34GZw",
+             "width" : 2560
+          }
+       ],
+       "place_id" : "ChIJI_Zwby6R3IARWa9p-9ELesw",
+       "plus_code" : {
+          "compound_code" : "JHWJ+PV Lake Elsinore, California, USA",
+          "global_code" : "8554JHWJ+PV"
+       },
+       "price_level" : 2,
+       "rating" : 4.2,
+       "reference" : "ChIJI_Zwby6R3IARWa9p-9ELesw",
+       "types" : [
+          "night_club",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+       ],
+       "user_ratings_total" : 318
+    },
+    {
+       "formatted_address" : "2261 Maricopa Hwy, Ojai, CA 93023, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.4541844,
+             "lng" : -119.2774702
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.45559727989272,
+                "lng" : -119.2760132701073
+             },
+             "southwest" : {
+                "lat" : 34.45289762010727,
+                "lng" : -119.2787129298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+       "id" : "c793f8fa35f50c6feec023cee0a9710aedb41b47",
+       "name" : "Ojai Deer Lodge",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 3120,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/109690343824697284960/photos\"\u003eRose Salcido\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAASb7nMVubFy-zE_ShDxi3W4MfP2_sZGosssa5ft62S4iUP6gxHfieTMD-qc4P-pWsbEOD3Tl4vjO2O4r75NrCqT5tqqjhzYLMKd9nLl48twim1hn96i6GI7mdLId4lMEPEhBozWPat3Zke2GMdzrmcR1-GhSejHs181eNmsIQ37KRdszUY48LWw",
+             "width" : 4160
+          }
+       ],
+       "place_id" : "ChIJtwKPaACl6YARzYwHikpwVmY",
+       "plus_code" : {
+          "compound_code" : "FP3F+M2 Ojai, California, USA",
+          "global_code" : "8562FP3F+M2"
+       },
+       "price_level" : 2,
+       "rating" : 4.2,
+       "reference" : "ChIJtwKPaACl6YARzYwHikpwVmY",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 346
+    },
+    {
+       "formatted_address" : "CA-2, La Cañada Flintridge, CA 91011, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.3298239,
+             "lng" : -118.0019671
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.33114397989273,
+                "lng" : -118.0004763701073
+             },
+             "southwest" : {
+                "lat" : 34.32844432010728,
+                "lng" : -118.0031760298927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+       "id" : "a4626d952cc72c8c855c954a94956269e4cfc456",
+       "name" : "Newcomb's Ranch",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 3024,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/102078292880899909266/photos\"\u003eFrank Barocio\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAJJzsAUnOzgpai1IkNl2iW1X8E0keWiYjQwSyxT2FEkb4l81PT50vS77VclS_UYX80tyQm9knbmS517z6E0A5465uwEIa6_FPUWwjNlOOhN_HiA6qSuV535TLRwE0EqKAEhBG6Jptz1tDV8AA66eutdj-GhT4LQXggrdj1z58VczgeEcWysy8UA",
+             "width" : 4032
+          }
+       ],
+       "place_id" : "ChIJmyUenpTpwoAR7Yz_DetEfc4",
+       "plus_code" : {
+          "compound_code" : "8XHX+W6 Three Points, California, USA",
+          "global_code" : "85638XHX+W6"
+       },
+       "rating" : 4.6,
+       "reference" : "ChIJmyUenpTpwoAR7Yz_DetEfc4",
+       "types" : [
+          "bar",
+          "lodging",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+       ],
+       "user_ratings_total" : 338
+    },
+    {
+       "formatted_address" : "507 Water St, Santa Cruz, CA 95060, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 36.98027080000001,
+             "lng" : -122.0200687
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 36.98152237989272,
+                "lng" : -122.0186756201072
+             },
+             "southwest" : {
+                "lat" : 36.97882272010728,
+                "lng" : -122.0213752798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "cadd39246784acf767befcbf17ee065e74c575cc",
+       "name" : "Callahan's",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 3024,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105360400893367883865/photos\"\u003eDusty Dirt\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAoazEGt5QF9UzYbIkTClHWHSmIe4S-fejdYRurNMVaV1FIqVxDslGwmjLDkkxbTV2BZWwjix3tpsHkO8RuXnZl5II2OYJFl9QEEwSDYbTizFrTSWXU9gLqa9bO9Y4ulnUEhAmeSvdhPofvMUMY-4fErGKGhRmHsZ4pPdHqAG9QueTr7QlZo2MJw",
+             "width" : 4032
+          }
+       ],
+       "place_id" : "ChIJ9YBwBSNAjoAR4c48ATdqtfM",
+       "plus_code" : {
+          "compound_code" : "XXJH+4X Santa Cruz, California, USA",
+          "global_code" : "848VXXJH+4X"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJ9YBwBSNAjoAR4c48ATdqtfM",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 79
+    },
+    {
+       "formatted_address" : "8790 La Honda Rd, La Honda, CA 94020, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.31891350000001,
+             "lng" : -122.2740396
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.32027077989272,
+                "lng" : -122.2728085701073
+             },
+             "southwest" : {
+                "lat" : 37.31757112010727,
+                "lng" : -122.2755082298928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "b8f1f1a026c496f99be8d1c2c7e932fc5d1239c3",
+       "name" : "Apple Jacks Inn",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 2304,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105780867108683244681/photos\"\u003eNick Brelsford\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA7np-Mz2axLFHLdGSRcMi_zzHXpBP7btK5RKEaEz0qKGelGvJkCTMZxZm4e55_97QJujuLxpwWjPx_lR1CObfp-VXcL-0VLL7kYAPeOJ6KhpKE8W5UHezQeRQS4DfBen4EhDjdDxZzwfYQMa9rk_r9QK8GhRl0YzJKaU15I4ssv8OWIM3v7AI8A",
+             "width" : 2304
+          }
+       ],
+       "place_id" : "ChIJAdvtm7Omj4ARa-x2CrTnKH8",
+       "plus_code" : {
+          "compound_code" : "8P9G+H9 La Honda, California, USA",
+          "global_code" : "849V8P9G+H9"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJAdvtm7Omj4ARa-x2CrTnKH8",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 84
+    },
+    {
+       "formatted_address" : "7529 Melrose Ave, Los Angeles, CA 90046, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.0838518,
+             "lng" : -118.354147
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.08510552989272,
+                "lng" : -118.3528001701073
+             },
+             "southwest" : {
+                "lat" : 34.08240587010727,
+                "lng" : -118.3554998298928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "fe63cf06396d196b24e9039f00999a072164cdc8",
+       "name" : "Snake Pit Alehouse Whiskey Bar & Kitchen",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1365,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/111080315958262988445/photos\"\u003eSnake Pit Alehouse\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAbTbMKVCU2HgioeNpM99m65ERBOIjQAIEgF-4IB0BWqkMq3_ygqQq4I4MAjYpCscLrmWQmDnyxpAut4SYrJ2qn9EDLiknNKSA6_G4Cu4BUUlQ9ccHSaT4tsbiGtB3OJsxEhD9uprTMgoeSVeBFuIgeUWkGhThNtOkUrQqiKWwv-RbXf0eY1qYsw",
+             "width" : 2048
+          }
+       ],
+       "place_id" : "ChIJHyESCNO-woARFPm71YB7Uo0",
+       "plus_code" : {
+          "compound_code" : "3JMW+G8 Los Angeles, California, USA",
+          "global_code" : "85633JMW+G8"
+       },
+       "price_level" : 1,
+       "rating" : 4.3,
+       "reference" : "ChIJHyESCNO-woARFPm71YB7Uo0",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 212
+    },
+    {
+       "formatted_address" : "5038 Newport Ave, San Diego, CA 92107, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 32.7474362,
+             "lng" : -117.2517427
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 32.74873627989272,
+                "lng" : -117.2504367201072
+             },
+             "southwest" : {
+                "lat" : 32.74603662010728,
+                "lng" : -117.2531363798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "3040c06396b739139683827567ebdb238cb1f7fd",
+       "name" : "Cheswick's West",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 2988,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/115860879543146934324/photos\"\u003eVince Toscan\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAsp1qUKmzn0nQpPv41oXpu0m4GhzKW9v-G9jTU7VjIkhUBiUIjf_DECfGN2gUPbeawkq2H3DNfuCKtQhul_VvagEZdGseTjgk3jrPVs4Kp_ZVfQAp9jjRg6HsqnE4bcF-EhCbFmZJWaIUUcgasoycri_kGhQpNzXsj3WysoWaWLWWNe_EP9WNcQ",
+             "width" : 5312
+          }
+       ],
+       "place_id" : "ChIJMcs5QTqq3oAR0QAanw0u2YU",
+       "plus_code" : {
+          "compound_code" : "PPWX+X8 San Diego, California, USA",
+          "global_code" : "8544PPWX+X8"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJMcs5QTqq3oAR0QAanw0u2YU",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 75
+    },
+    {
+       "formatted_address" : "16784 W Grant Line Rd, Tracy, CA 95391, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.754406,
+             "lng" : -121.575548
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.75583832989272,
+                "lng" : -121.5740791201073
+             },
+             "southwest" : {
+                "lat" : 37.75313867010728,
+                "lng" : -121.5767787798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "f7670cb7270d151909d041c0aa7801b4b7f701da",
+       "name" : "Mountain House Bar & Grill",
+       "photos" : [
+          {
+             "height" : 2160,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/101789688080465139966/photos\"\u003eVictor Martino\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAMpkiJCNborb7IpUqrl8jV7rxJuSI9EUh7mKaCtL5j8Vqu7T68aurTPfVij1qwk7JKF-a62FDIB7NtNmrXIg9vtzGI_LaXdFCSiEqQebFT9nWvVNOyZhmCUf5EOhRLRpMEhAE0h1EmKdbst2rSuZU_1s5GhRxk8qjG4c83W4rsYnpOWLULot65w",
+             "width" : 2160
+          }
+       ],
+       "place_id" : "ChIJXUmvCp_nj4ARDaIgXoKIliA",
+       "plus_code" : {
+          "compound_code" : "QC3F+QQ Tracy, California, USA",
+          "global_code" : "849WQC3F+QQ"
+       },
+       "price_level" : 1,
+       "rating" : 4.4,
+       "reference" : "ChIJXUmvCp_nj4ARDaIgXoKIliA",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 123
+    },
+    {
+       "formatted_address" : "3320 Mendocino Ave, Santa Rosa, CA 95403, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 38.4701124,
+             "lng" : -122.7224232
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 38.47141872989273,
+                "lng" : -122.7211651701073
+             },
+             "southwest" : {
+                "lat" : 38.46871907010728,
+                "lng" : -122.7238648298928
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "577719b929ea1e297f9db8bc14962445817d6157",
+       "name" : "Wagon Wheel",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1440,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/104333826980344744895/photos\"\u003eKyle Copeland\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAd5LhJ4UhLSYGu0QC8Arbw-7KADYH6jlUBu8OpjIluWCnCzQPOAwTkUfyzA5YbaH7aZ01h1sCMgGvNnaOLmyVsEzssZzN3UGRUl2_LBWKjw2Xd-h0Uq4kCqiMAi0wMJYXEhC9x66xUjwQWU6qMME0CEhmGhTpFs2xxylPKxxFEDKS36xYHv3-EQ",
+             "width" : 2560
+          }
+       ],
+       "place_id" : "ChIJRWbZw344hIARMAzcJsamAMY",
+       "plus_code" : {
+          "compound_code" : "F7CH+22 Santa Rosa, California, USA",
+          "global_code" : "84CVF7CH+22"
+       },
+       "price_level" : 1,
+       "rating" : 4.4,
+       "reference" : "ChIJRWbZw344hIARMAzcJsamAMY",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 101
+    },
+    {
+       "formatted_address" : "18169 Cajon Blvd, San Bernardino, CA 92407, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.2222866,
+             "lng" : -117.405669
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.22311392989271,
+                "lng" : -117.4044877201073
+             },
+             "southwest" : {
+                "lat" : 34.22041427010727,
+                "lng" : -117.4071873798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "2532bff954f645c497a3f76c054fc6ff8d5eb2d0",
+       "name" : "Screaming Chicken Saloon",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1152,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/107071519141536294841/photos\"\u003eDan Baldwin\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAAFH04SIipz96x9cMUwpsixHyym2SElnMvjR2HRoH6W0jr9XD-e_m1u8nqmJAqbwPjhVauZsnNTH6VLfPI5ym1E7DL617FnR9YrN_k_buyI8L6n-NWYDi6meQ8i0o5AfNBEhCyfkCxZfC4TfG64I7Xtau5GhQHck4sXlvyr-aCIUkHewtfg7Egew",
+             "width" : 2048
+          }
+       ],
+       "place_id" : "ChIJsyd7KoNPw4ARhauQVO0sJjI",
+       "plus_code" : {
+          "compound_code" : "6HCV+WP San Bernardino, California, USA",
+          "global_code" : "85646HCV+WP"
+       },
+       "price_level" : 1,
+       "rating" : 4.4,
+       "reference" : "ChIJsyd7KoNPw4ARhauQVO0sJjI",
+       "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
+       "user_ratings_total" : 247
+    },
+    {
+       "formatted_address" : "Highland, CA 92346, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 34.1281929,
+             "lng" : -117.2085074
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 34.12954307989272,
+                "lng" : -117.2072737201073
+             },
+             "southwest" : {
+                "lat" : 34.12684342010727,
+                "lng" : -117.2099733798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "32d82ae3e875269e2b500f14a923d27da8b8a9db",
+       "name" : "The Belle",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 4160,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/118143496502605388122/photos\"\u003eDeb Cole\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA4Gxd6rE0KeYwDSun-N64gNqgwXhcc4eQan_taiL27dDF0FyKVWhdN7xtMXiaGfJiIUnNAl9SM8C6oEk6qy4nXAc8OWhuNnV0aGUVh4uOA0w_DlmA4cnH8qxnowTeEY8oEhBrobw8ljjwi-cLAIEznl1WGhSfIk1EgDyCwK8hGoFxUPD3AsXhSw",
+             "width" : 2080
+          }
+       ],
+       "place_id" : "ChIJWbLxKztVw4ARGFUz4pFRJLw",
+       "plus_code" : {
+          "compound_code" : "4QHR+7H Highland, California, USA",
+          "global_code" : "85644QHR+7H"
+       },
+       "price_level" : 1,
+       "rating" : 4.5,
+       "reference" : "ChIJWbLxKztVw4ARGFUz4pFRJLw",
+       "types" : [ "bar", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 40
+    },
+    {
+       "formatted_address" : "1369 Folsom St, San Francisco, CA 94103, USA",
+       "geometry" : {
+          "location" : {
+             "lat" : 37.772958,
+             "lng" : -122.412388
+          },
+          "viewport" : {
+             "northeast" : {
+                "lat" : 37.77436557989272,
+                "lng" : -122.4111119201073
+             },
+             "southwest" : {
+                "lat" : 37.77166592010727,
+                "lng" : -122.4138115798927
+             }
+          }
+       },
+       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+       "id" : "466f3b0ffea2ac5b9549cdc305fa37f3f77a7607",
+       "name" : "Hole In the Wall Saloon",
+       "opening_hours" : {
+          "open_now" : false
+       },
+       "photos" : [
+          {
+             "height" : 1367,
+             "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/117211711134427721008/photos\"\u003eMary Smith\u003c/a\u003e"
+             ],
+             "photo_reference" : "CmRaAAAA_-0nCDDH3BFV30jOcfMKE3SFm77roL4jV2v_2LRUIAaW-0FHZjKFbLJ1qiQuCmRPR14nAbbDnV5uQ8BooDn9158YLgyNNuEwyAI1SZuLwKFt3ZpmUm7vlxNI4yER9BN6EhCPGpS69qzSYw2-1JT0JdsZGhSNLNBzG7Dmk6AEkAkSxoFHb1XtdQ",
+             "width" : 2048
+          }
+       ],
+       "place_id" : "ChIJExXNdCh-j4AR6JuGm4ElqcQ",
+       "plus_code" : {
+          "compound_code" : "QHFQ+52 SoMa, San Francisco, CA, USA",
+          "global_code" : "849VQHFQ+52"
+       },
+       "price_level" : 1,
+       "rating" : 4.7,
+       "reference" : "ChIJExXNdCh-j4AR6JuGm4ElqcQ",
+       "types" : [ "bar", "night_club", "point_of_interest", "establishment" ],
+       "user_ratings_total" : 39
+    }
+ ]
