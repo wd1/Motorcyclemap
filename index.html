@@ -13,14 +13,17 @@
     border-bottom: 5px solid #e15024;
 }
 </style>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="css/map_stack.css" rel="stylesheet">
 <script src="scripts/jquery.js"></script>
+<link rel="canonical" href="https://getbootstrap.com/docs/3.4/examples/navbar-fixed-top/">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<link href="navbar-fixed-top.css" rel="stylesheet">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top" style="padding:10px;vertical-align: middle;height:70px;text-align: center;background-color: white;border-color: white;">
+    <!-- <nav class="navbar navbar-inverse navbar-fixed-top" style="padding:10px;vertical-align: middle;height:70px;text-align: center;background-color: white;border-color: white;">
         <div class="container-fluid">
             <div class="navbar-header">
                 
@@ -33,7 +36,6 @@
     <nav class="navbar navbar-inverse navbar-fixed-top" style="top:70px;background-color: #334d70;border-color: #334d70;">
         <div class="container-fluid">
             <div class="navbar-header">
-            <!-- <a class="navbar-brand" href="#"></a> -->
             </div>
             <ul class="nav navbar-nav" style="font-size: 20px;float: none;width: 60%;margin: auto;text-align:center;">
                 <li class="active" onclick="onRoutes()" style="width:25%;"><a href="#" style="display:inline-block;background: #334d70;color:white;">ROUTES</a></li>
@@ -43,7 +45,38 @@
             </ul>
 
         </div>
+    </nav> -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="top:0px;padding:10px;vertical-align: middle;height:70px;text-align: center;background-color: white;border-color: white;">
+        <div class="container-fluid fixed_top_nav">
+            <div class="navbar-header">
+                
+            </div>
+            <img src="asset/bikel.png"/>
+            <h1 style="display:inline;">CALIFORNIA MOTORCYLCLE MAP</h1>
+            <img src="asset/biker.png"/>
+        </div>
     </nav>
+    <nav class="navbar navbar-default navbar-fixed-top fixed_top_nav1" style="background-color: #334d70;border-color: #334d70;">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <!-- <a class="navbar-brand" href="#">Project name</a> -->
+              </div>
+              <div id="navbar" class="navbar-collapse collapse" style="text-align:center;">
+                <ul class="nav navbar-nav" style="display: inline-block;font-size: 20px;float: none;margin: auto;text-align:center;">
+                    <li class="active" onclick="onRoutes()" ><a href="#" style="display:inline-block;background: #334d70;color:white;">ROUTES</a></li>
+                    <li onclick="onBars()" ><a href="#" style="display:inline-block;background: #334d70;color:white;">BARS</a></li>
+                    <li onclick="onShops()" ><a href="#" style="display:inline-block;background: #334d70;color:white;">BIKE SHOPS</a></li>
+                    <li onclick="onRetailers()" ><a href="#" style="display:inline-block;background: #334d70;color:white;">REPAIR SHOPS</a></li>
+                </ul>
+              </div><!--/.nav-collapse -->
+            </div>
+          </nav>
     <!-- <input id="searchInput" class="controls" type="text" placeholder="Enter a location"> -->
     <div id="map" class="c-mapstack__map" style=""></div>
     <div id="content_panel" class="c-mapstack__cards" data-view="cards" data-bottom="false" style="display: block; margin-bottom: 758px;">

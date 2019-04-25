@@ -161,9 +161,9 @@ function doBars(resultsMap,i) {
   var temp_content;
   var imagesrc = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference="+mybarsdata[i].photos[0].photo_reference+"&key="+API_KEY;
   temp_content=`
-      <section id="mybarsdata`+i+`" class="dobars c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: 10px 10px 5px grey;" onmouseover="setmapmarker(`+i+`,'bars')">
-        <h1 style="font-size: 38px;">`+mybarsdata[i].name+`</h1>
-        <h2 class="c-entry-summary p-dek">`+address+`</h2>
+      <section id="mybarsdata`+i+`" class="dobars c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,.25);" onmouseover="setmapmarker(`+i+`,'bars')">
+        <h1 style="font-size: 38px;text-align:center;    border-bottom: 5px solid #e15024;">`+mybarsdata[i].name+`</h1>
+        <h2 class="c-entry-summary p-dek" style="text-align:center;">`+address+`</h2>
         <div class="c-mapstack__photo">
             <figure class="e-image">
                 <span class="e-image__inner">
@@ -173,8 +173,7 @@ function doBars(resultsMap,i) {
                         </picture>
                     </span>
                 </span>
-                <span class="e-image__meta">
-                </span>
+
             </figure>
         </div>
     </section>`;
@@ -232,9 +231,9 @@ function doShops(resultsMap,i) {
   var temp_content;
   var imagesrc = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference="+myshopsdata[i].photos[0].photo_reference+"&key="+API_KEY;
   temp_content=`
-      <section id="myshopsdata`+i+`" class="doshops c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: 10px 10px 5px grey;" onmouseover="setmapmarker(`+i+`,'bars')">
-        <h1 style="font-size: 38px;">`+myshopsdata[i].name+`</h1>
-        <h2 class="c-entry-summary p-dek">`+address+`</h2>
+      <section id="myshopsdata`+i+`" class="doshops c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,.25);" onmouseover="setmapmarker(`+i+`,'bars')">
+        <h1 style="font-size: 38px;text-align:center;    border-bottom: 5px solid #e15024;">`+myshopsdata[i].name+`</h1>
+        <h2 class="c-entry-summary p-dek"  style="text-align:center;">`+address+`</h2>
         <div class="c-mapstack__photo">
             <figure class="e-image">
                 <span class="e-image__inner">
@@ -244,8 +243,7 @@ function doShops(resultsMap,i) {
                         </picture>
                     </span>
                 </span>
-                <span class="e-image__meta">
-                </span>
+
             </figure>
         </div>
     </section>`;
@@ -303,9 +301,9 @@ function doRetailers(resultsMap,i) {
   var temp_content;
   var imagesrc = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference="+myretailersdata[i].photos[0].photo_reference+"&key="+API_KEY;
   temp_content=`
-      <section id="myretailersdata`+i+`" class="doretailers c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: 10px 10px 5px grey;" onmouseover="setmapmarker(`+i+`,'bars')">
-        <h1 style="font-size: 38px;">`+myretailersdata[i].name+`</h1>
-        <h2 class="c-entry-summary p-dek">`+address+`</h2>
+      <section id="myretailersdata`+i+`" class="doretailers c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,.25);" onmouseover="setmapmarker(`+i+`,'bars')">
+        <h1 style="font-size: 38px;text-align:center;    border-bottom: 5px solid #e15024;">`+myretailersdata[i].name+`</h1>
+        <h2 class="c-entry-summary p-dek"  style="text-align:center;">`+address+`</h2>
         <div class="c-mapstack__photo">
             <figure class="e-image">
                 <span class="e-image__inner">
@@ -315,8 +313,7 @@ function doRetailers(resultsMap,i) {
                         </picture>
                     </span>
                 </span>
-                <span class="e-image__meta">
-                </span>
+
             </figure>
         </div>
     </section>`;
@@ -374,9 +371,9 @@ function doSomething(resultsMap,i) {
   var temp_content;
   if(mydata[i].type !='route') {
     temp_content=`
-        <section id="mydata`+i+`"dosomething class="c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: 10px 10px 5px grey;" onmouseover="setmapmarker(`+i+`)">
-          <h1 style="font-size: 38px;">`+address+`</h1>
-          <h2 class="c-entry-summary p-dek">`+mydata[i].title+`</h2>
+        <section id="mydata`+i+`"dosomething class="c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,.25);" onmouseover="setmapmarker(`+i+`)">
+          <h1 style="font-size: 38px;text-align:center;    border-bottom: 5px solid #e15024;">`+address+`</h1>
+          <h2 class="c-entry-summary p-dek" style="text-align:center;">`+mydata[i].title+`</h2>
           <div class="c-mapstack__photo">
               <figure class="e-image">
                   <span class="e-image__inner">
@@ -386,8 +383,6 @@ function doSomething(resultsMap,i) {
                           </picture>
                       </span>
                   </span>
-                  <span class="e-image__meta">
-                  </span>
               </figure>
           </div>
           <div class="c-entry-content">
@@ -396,8 +391,8 @@ function doSomething(resultsMap,i) {
       </section>`;
   } else {
     temp_content=`
-      <section id="mydata`+i+`" class="dosomething c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: 10px 10px 5px grey;" onmouseover="setmaplayer(`+i+`)">
-        <h1 style="font-size: 38px;text-align:center;">`+mydata[i].title+`</h1>
+      <section id="mydata`+i+`" class="dosomething c-mapstack__card" data-slug="intro" style="display: block;    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,.25);" onmouseover="setmaplayer(`+i+`)">
+        <h1 style="font-size: 38px;text-align:center;    border-bottom: 5px solid #e15024;">`+mydata[i].title+`</h1>
         <div class="c-mapstack__photo">
             <figure class="e-image" style="text-align: center;">
                 <span class="e-image__inner" style="">
