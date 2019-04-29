@@ -1,6 +1,6 @@
 // Commas to the price. Add the represented and Status column information below the price.
 // Use Dark Green pin for Buyers and Gold for Sellers.
-var API_KEY = "AIzaSyCidDwInoB5kG1q7_YJeinEER72BMKsZF0";
+var API_KEY = "";
 var mydata, mybarsdata, myshopsdata, myretailersdata;
 var layers=[], gmarkers=[], barsmarkers=[], shopsmarkers=[], retailersmarkers=[];
 function csvJSON(csv){
